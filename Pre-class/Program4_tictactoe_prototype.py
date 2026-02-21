@@ -1,6 +1,8 @@
 import os
 import random
 
+os.system('cls' if os.name == 'nt' else 'clear')
+
 while True:
     # set game variables
     gameOver = False
