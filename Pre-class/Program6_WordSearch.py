@@ -1,6 +1,6 @@
 from collections import deque
 
-filename = "./kjv.txt"
+filename = "Program6_kjv.txt"
 target = "Jesus"
 window = 30
 
