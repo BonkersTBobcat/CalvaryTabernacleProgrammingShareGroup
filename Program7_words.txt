@@ -1,0 +1,11 @@
+bible
+doctor
+jesus
+apples
+wolves
+chair
+table
+computer
+programming
+cellphone
+mobile
